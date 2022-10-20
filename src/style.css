@@ -1,0 +1,24 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+table,
+th,
+td {
+  border: 1px solid;
+}
+
+td {
+  min-width: 1em;
+  text-align: center;
+}
+
+td button {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  font-family: monospace;
+}
